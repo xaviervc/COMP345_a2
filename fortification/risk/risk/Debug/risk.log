@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\chris\source\repos\risk\risk\main.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\risk\risk\main.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\risk\risk\main.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\risk\risk\main.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\risk\risk\main.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\source\repos\risk\risk\main.cpp(282): warning C4018: '<': signed/unsigned mismatch
+  risk.vcxproj -> c:\Users\Chris\source\repos\risk\Debug\risk.exe
